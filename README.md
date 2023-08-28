@@ -22,10 +22,9 @@
 
 ![Java](https://img.shields.io/badge/Java-1e186d?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-1e186d?style=for-the-badge&logo=git)&nbsp;
-![Spring]<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-![IntelliJ]<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-        
-          
+![Spring](https://img.shields.io/badge/Spring-1e186d?style=for-the-badge&logo=spring&logoColor=green)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-1e186d?style=for-the-badge&logo=eclipse&logoColor=orange)&nbsp;
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-1e186d.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)&nbsp;
 
 <div>
   <a href = "mailto:fabriciocarvalho@alu.ufc.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
