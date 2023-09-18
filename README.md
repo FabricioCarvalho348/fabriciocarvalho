@@ -1,4 +1,8 @@
-# Hi There, I'm Fabricio!
+<p align="center" >
+<a href="[https://git.io/typing-sv](https://git.io/typing-sv)g"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&size=22&duration=3000&pause=1000&color=17b8ee&center=true&vCenter=true&width=450&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%8F%BB+Bem+Vindos!;Meu+nome+é+Fabrício!;Desenvolvedor+Backend" alt="Typing SVG" /></a>
+</p>
+
+### 👨‍💻 Sobre mim
 
 🗝️  I like to know more and more about the world of technology.
 
@@ -13,9 +17,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <a href="https://github.com/FabricioCarvalho348">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioCarvalho348&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioCarvalho348&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabriciocarvalho348&theme=tokyonight&rank_icon=defaut&include_all_commits=true" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabriciocarvalho348&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabriciocarvalho348&theme=tokyonight&utcOffset=8" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabriciocarvalho348&theme=tokyonight"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabriciocarvalho348&theme=tokyonight&card_width=500px" />
+</a>
 </div>
     
  ### 🛠 &nbsp;Tech Stack
@@ -26,11 +33,15 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-1e186d?style=for-the-badge&logo=eclipse&logoColor=orange)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-1e186d.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)&nbsp;
 
+### 📧 Contatos
 <div>
-  <a href = "mailto:fabriciocarvalho@alu.ufc.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+  <a href = "mailto:fabricioccarvalho348@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
   </a>
   <a href="https://www.linkedin.com/in/inacio-fabricio-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 
-![Snake animation](https://github.com/FabricioCarvalho348/FabricioCarvalho348/blob/output/github-contribution-grid-snake.svg)
+<h3>Troféus</h3>
+   <div align="center">
+       <img src="https://github-profile-trophy.vercel.app/?username=fabriciocarvalho348&theme=tokyonight&column=-1"/>
+   </div>
